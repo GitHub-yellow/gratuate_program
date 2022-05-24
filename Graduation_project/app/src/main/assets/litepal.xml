@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="wordmemory"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="top.llr2021.wordmemory.database.User"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.Word"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.MyDate"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.Interpretation"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.Phrase"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.Sentence"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.Sentence"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.UserConfig"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.DailyData"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.LearnTime"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.WordFolder"></mapping>
+        <mapping class="top.llr2021.wordmemory.database.FolderLinkWord"></mapping>
+    </list>
+</litepal>
